@@ -1,0 +1,911 @@
+# Learning Path
+- [ ] The Odin Project
+  - [ ] Foundations
+    - [ ] Introduction
+      - [ ] How this Course Will Work
+      - [ ] Introduction to Web Development
+      - [ ] Motivation and Mindset
+      - [ ] Asking for Help
+      - [ ] Join the Odin Community
+    - [ ] Prerequisites
+      - [ ] Computer Basics
+      - [ ] How Does the Web Work?
+      - [ ] Installation Overview
+      - [ ] Installations
+      - [ ] Text Editors
+      - [ ] Command Line Basics
+      - [ ] Setting Up Git
+    - [ ] Git Basics
+      - [ ] Introduction to Git
+      - [ ] Git Basics
+    - [ ] HTML Foundations
+      - [ ] Introduction to HTML and CSS
+      - [ ] Elements and Tags
+      - [ ] HTML Boilerplate
+      - [ ] Working with Text
+      - [ ] Lists
+      - [ ] Links and Images
+      - [ ] Commit Messages
+      - [ ] Project: Recipes
+    - [ ] CSS Foundations
+      - [ ] CSS Foundations
+      - [ ] Inspecting HTML and CSS
+      - [ ] The Box Model
+      - [ ] Block and Inline
+    - [ ] Flexbox
+      - [ ] Introduction to Flexbox
+      - [ ] Growing and Shrinking
+      - [ ] Axes
+      - [ ] Alignment
+      - [ ] Project: Landing Page
+    - [ ] JavaScript Basics
+      - [ ] Fundamentals Part 1
+      - [ ] Fundamentals Part 2
+      - [ ] JavaScript Developer Tools
+      - [ ] Fundamentals Part 3
+      - [ ] Problem Solving
+      - [ ] Understanding Errors
+      - [ ] Project: Rock Paper Scissors
+      - [ ] Clean Code
+      - [ ] Installing Node.js 
+      - [ ] Fundamentals Part 4
+      - [ ] DOM Manipulation and Events
+      - [ ] Revisiting Rock Paper Scissors
+      - [ ] Project: Etch-a-Sketch
+      - [ ] Fundamentals Part 5
+      - [ ] Project: Calculator
+    - [ ] The Back End
+      - [ ] Introduction to the Back End
+      - [ ] Introduction to Frameworks
+    - [ ] Conclusion
+      - [ ] Choose Your Path Forward
+  - [ ] Full Stack JavaScript
+    - [ ] Intermediate HTML and CSS
+      - [ ] Intermediate HTML Concepts
+        - [ ] Introduction
+        - [ ] Emmet
+        - [ ] SVG 
+        - [ ] Tables
+      - [ ] Intermediate CSS Concepts
+        - [ ] Default Styles
+        - [ ] CSS Units 
+        - [ ] More Text Styles 
+        - [ ] More CSS Properties
+        - [ ] Advanced Selectors
+        - [ ] Positioning
+        - [ ] CSS Functions
+        - [ ] Custom Properties
+        - [ ] Browser Compatibility
+        - [ ] Frameworks and Preprocessors
+      - [ ] Forms
+        - [ ] Form Basics
+        - [ ] Form Validation
+        - [ ] Project: Sign-up Form 
+      - [ ] Grid
+        - [ ] Introduction to Grid
+        - [ ] Creating a Grid
+        - [ ] Positioning Grid Elements 
+        - [ ] Advanced Grid Properties 
+        - [ ] Using Flexbox and Grid 
+        - [ ] Project: Admin Dashboard
+    - [ ] JavaScript
+      - [ ] Introduction 
+        - [ ] How this course will work 
+        - [ ] A quick review
+        - [ ] Linting
+      - [ ] Organizing your JavaScript Code
+        - [ ] Organizing your JavaScript Code Introduction
+        - [ ] Objects and Object Constructors 
+        - [ ] Project: Library 
+        - [ ] Factory Functions and the Module Pattern
+        - [ ] Project: Tic Tac Toe
+        - [ ] Classes
+        - [ ] ES6 Modules
+        - [ ] Webpack
+        - [ ] Project: Resturant Page
+        - [ ] OOP Principles
+        - [ ] Project: Todo List
+      - [ ] JavaScript in the Real World
+        - [ ] Dynamic User Interface Interactions
+        - [ ] Form Validation with JavaScript
+        - [ ] What is ES6?
+      - [ ] Asynchronous JavaScript and APIs
+        - [ ] JSON 
+        - [ ] Asynchronous Code 
+        - [ ] Working with APIs 
+        - [ ] Async and Await 
+        - [ ] Project: Weather App 
+      - [ ] A Bit of Computer Science
+        - [ ] A Very Brief Intro to CS 
+        - [ ] Recursive Methods 
+        - [ ] Project: Recursion 
+        - [ ] Common Data Structures and Algorithms 
+        - [ ] Project: Linked Lists 
+        - [ ] Project: Binary Search Trees
+        - [ ] Project: Knights Travails
+      - [ ] Testing JavaScript 
+        - [ ] Testing Basics 
+        - [ ] Project: Testing Practice 
+        - [ ] More Testing 
+        - [ ] Project: Battleship
+      - [ ] Intermediate Git 
+        - [ ] A Deeper Look at Git
+        - [ ] Using Git in the Real World 
+      - [ ] React JS 
+        - [ ] React Introduction
+        - [ ] State and Props 
+        - [ ] Handle Inputs and Render Lists 
+        - [ ] Project: CV Application 
+        - [ ] Lifecycle Methods 
+        - [ ] Hooks 
+        - [ ] Project: Memory Card 
+        - [ ] Router 
+        - [ ] React Testing Part 1
+        - [ ] React Testing Part 2 
+        - [ ] Project: Shopping Cart 
+        - [ ] Advanced Concepts 
+      - [ ] JavaScript and the Backend 
+        - [ ] Using BaaS For Your Back End 
+        - [ ] Project: Where's Waldo (A Photo Tagging App)
+      - [ ] Finishing Up with JavaScript 
+        - [ ] Project: JavaScript Final Project 
+        - [ ] Conclusion
+    - [ ] Advanced HTML and CSS
+      - [ ] Animation 
+        - [ ] Transforms 
+        - [ ] Transitions 
+        - [ ] Keyframes
+      - [ ] Accessibility 
+        - [ ] Introduction to Web Acessibility 
+        - [ ] The Web Content Acessibility Guidelines (WCAG)
+        - [ ] Semantic HTML
+        - [ ] Accessible Colors
+        - [ ] Keyboard Navigation 
+        - [ ] Meaningful Text
+        - [ ] WAI-ARIA
+        - [ ] Acessibility Auditing
+      - [ ] Responsive Design
+        - [ ] Introduction to Responsive Design 
+        - [ ] Natural Responsiveness 
+        - [ ] Responsive Images 
+        - [ ] Media Queries 
+        - [ ] Project: Personal Portfolio
+    - [ ] NodeJS
+      - [ ] Introduction to NodeJS 
+        - [ ] Introduction: What is NodeJS 
+        - [ ] Getting Started 
+        - [ ] Debugging 
+        - [ ] Project: Basic Informational Site
+      - [ ] MongoDB
+        - [ ] Introduction to MongoDB
+      - [ ] Express and Mongoose 
+        - [ ] Introduction to Express 
+        - [ ] Express 101
+        - [ ] Express 102: CRUD and MVC 
+        - [ ] Project: Mini Message Board 
+        - [ ] Deployment 
+        - [ ] Express 103: Routes and Controllers 
+        - [ ] Express 104: View Templates 
+        - [ ] Project: Express 105: Forms and Deployment 
+        - [ ] Project: Inventory Application
+      - [ ] Authentication 
+        - [ ] Authentication Basics 
+        - [ ] Security Configuration 
+        - [ ] Project: Members Only
+      - [ ] APIs 
+        - [ ] API basics 
+        - [ ] API Security 
+        - [ ] Project: Blog API 
+      - [ ] Testing Express 
+        - [ ] Testing Routes and Controllers 
+        - [ ] Testing database operations
+      - [ ] FINAL PROJECT 
+        - [ ] Project: Odin-Book
+        - [ ] Conclusion
+    - [ ] Getting Hired
+      - [ ] Preparing for Your Job Search
+        - [ ] How This Course Will Work
+        - [ ] Strategy 
+        - [ ] It Starts with YOU 
+        - [ ] What Companies Want 
+        - [ ] What You Can Do To Prepare 
+        - [ ] Project: Building Your Personal Website 
+      - [ ] Applying to and Interviewing for Jobs
+        - [ ] Collecting Job Leads 
+        - [ ] Qualifying Job Leads 
+        - [ ] Project: Building Your Resume 
+        - [ ] Applying for Web Development Jobs 
+        - [ ] Preparing to Interview and Interviewing 
+        - [ ] Handling a Job Offer 
+        - [ ] Conclusion
+- [ ] OSSU - Computer Science
+  - [ ] Intro CS
+    - [ ] Introduction to Programming 
+      - [ ] Python for Everybody
+        - [ ] 1: Installing Python 
+        - [ ] 2: Why Program? 
+        - [ ] 3: Variables, expressions, and statements 
+        - [ ] 4: Conditional Execution 
+        - [ ] 5: Functions 
+        - [ ] 6: Loops and Iterations 
+        - [ ] 7: Strings 
+        - [ ] 8: Files 
+        - [ ] 9: Lists 
+        - [ ] 10: Dictionaries 
+        - [ ] 11: Tuples 
+        - [ ] 12: Regular Expressions 
+        - [ ] 13: Network Programming 
+        - [ ] 14: Using Web Servieces 
+        - [ ] 15: Object-Oriented Programming 
+        - [ ] 16: Databases 
+        - [ ] 17: Data Visualization
+    - [ ] Introduciton to Computer Science
+      - [ ] Introduction to Computer Science and Programming using Python 
+        - [ ] Session 1: What is computation? 
+        - [ ] Problem Set 0
+        - [ ] Session 2: Branching and Iteration
+        - [ ] Problem Set 1
+        - [ ] Session 3: String Manipulation, Guess and Check, Approximations, Bisection
+        - [ ] Session 4: Decomposition, Abstractions, Functions
+        - [ ] Problem Set 2
+        - [ ] Session 5: Tuples, Lists, Aliasing, Mutability, Cloning
+        - [ ] Session 6: Recursion, Dictionaries
+        - [ ] Problem Set 3
+        - [ ] Session 7: Testing, Debugging, Exceptions, Assertions
+        - [ ] Quiz 1
+        - [ ] Session 8: Object Oriented Programming
+        - [ ] Session 9: Python Classes and Inheritance 
+        - [ ] Problem Set 4
+        - [ ] Session 10: Understanding Program Efficiency, Part 1
+        - [ ] Problem Set 5
+        - [ ] Session 11: Understanding Program Efficiency, Part 2
+        - [ ] Session 12: Searching and Sorting
+        - [ ] Problem Set 5
+        - [ ] Final Quiz
+  - [ ] Core CS 
+    - [ ] Core programming 
+      - [ ] How to Code - Simple Data
+        - [ ] 0: Introduction
+          - [ ] Welcome
+          - [ ] Syllabus 
+          - [ ] Grading 
+          - [ ] Study Tips 
+          - [ ] Student Perspective 
+          - [ ] Course Team 
+          - [ ] Pre-Course Survey 
+        - [ ] 1a: Beginning Student Languages
+          - [ ] Module Overview 
+          - [ ] Expressions 
+          - [ ] Evaluation 
+          - [ ] Strings and Images 
+          - [ ] Constant Definitions 
+          - [ ] Function Definitions 
+          - [ ] Booleans and if Expressions 
+          - [ ] Using the Stepper 
+          - [ ] Discovering Primitives 
+          - [ ] Practice Problems 
+        - [ ] 1b: How to Design Functions 
+          - [ ] Module Overview 
+          - [ ] Slow Motion HtDF Recipe 
+          - [ ] A Simple Practice Example 
+          - [ ] When Tests are Incorrect 
+          - [ ] Varying Recipe Order 
+          - [ ] Poorly Formed Problems 
+          - [ ] Practice Problems 
+          - [ ] Quiz 
+        - [ ] 2: How to Design Data
+          - [ ] Module Overview 
+          - [ ] cond Expressions 
+          - [ ] Data Definitions 
+          - [ ] Atomic Non-Distinct 
+          - [ ] HtDF With Non-Primitive Data 
+          - [ ] HtDF X Structure of Data Orthogonality 
+          - [ ] Interval 
+          - [ ] Enumeration 
+          - [ ] Itemization 
+          - [ ] HtDF with Interval 
+          - [ ] HtDF with Enumeration 
+          - [ ] HtDF with Itemization 
+          - [ ] Structure of Information Flows Through 
+          - [ ] Practice Problems 
+          - [ ] Quiz 
+        - [ ] 3a: How to Design Worlds 
+          - [ ] Module Overview 
+          - [ ] Interactive Programs 
+          - [ ] The big-bang Mechanism 
+          - [ ] Domain Analysis 
+          - [ ] Program through main Function 
+          - [ ] Working through the Wish List 
+          - [ ] Improving a World Program - Add SPEED 
+          - [ ] Improving a World Program - Add key handler 
+          - [ ] Practice Problmes 
+        - [ ] 3b: Compound Data 
+          - [ ] Module Overview 
+          - [ ] define-struct 
+          - [ ] Compound Data Definitions 
+          - [ ] Practice Problems - Compound Data 
+          - [ ] HtDW With Compound Data 
+          - [ ] Practice Problems - HtDW with Compound Data 
+          - [ ] Design Quiz 
+        - [ ] 4a: Self-Reference 
+          - [ ] Module Overview 
+          - [ ] Introduction to Arbitrary Sized Data 
+          - [ ] List Mechanisms 
+          - [ ] List Data Definition 
+          - [ ] Function Operating on List 
+          - [ ] Revising the Recipes for Lists 
+          - [ ] Desgning with Lists 
+          - [ ] Positions in List Templates 
+          - [ ] Practice Problems 
+        - [ ] 4b: Reference 
+          - [ ] Module Overview
+          - [ ] The Reference Rule Part 1
+          - [ ] The Reference Rule Part 2
+          - [ ] The Reference Rule Part 3
+          - [ ] Practice Problems 
+          - [ ] Quiz 
+          - [ ] Video Contest 
+        - [ ] 5a: Naturals 
+          - [ ] Module Overview 
+          - [ ] Natural Numbers 
+          - [ ] A Parlor Trick 
+          - [ ] Practice Problems 
+        - [ ] 5b: Helpers 
+          - [ ] Module Overview 
+          - [ ] Introduction
+          - [ ] Function Composition 
+          - [ ] Laying Out a List of Images 
+          - [ ] Operating on a List 
+          - [ ] Domain Knowledge Shift 
+          - [ ] The Last Helper 
+          - [ ] Practice Problems 
+          - [ ] Design Quiz 
+        - [ ] 6: Binary Search Trees
+          - [ ] Module Overview 
+          - [ ] List Abbreviations 
+          - [ ] List of Account 
+          - [ ] BSTs 
+          - [ ] A Data Definition for BSTs 
+          - [ ] Lookup in BSTs 
+          - [ ] Rendering BSTs 
+          - [ ] Practice Problems 
+        - [ ] The Career Development Series 
+          - [ ] Introduction: The Career Development Series 
+          - [ ] Technical Interviews 
+          - [ ] Taking your Suggestions 
+        - [ ] Worked Problems 
+          - [ ] Worked Problems 
+          - [ ] Video Contest 
+        - [ ] Final Project 
+          - [ ] Final Project: Space Ivaders 
+      - [ ] How to Code - Complex Data 
+        - [ ] Introduction
+          - [ ] Syllabus 
+          - [ ] Grading 
+          - [ ] Study Tips 
+          - [ ] Course Team 
+          - [ ] Module Wrap-Up
+        - [ ] 7: Mutual Reference 
+          - [ ] Module Overview 
+          - [ ] Mutually Recursive Data 
+          - [ ] Templating Mutual Recursion 
+          - [ ] Functions on Mutually Recursive Data - Part 1
+          - [ ] Functions on Mutually Recursive Data - Part 2
+          - [ ] Backtracking Search 
+          - [ ] Practice Problems 
+          - [ ] Quiz 
+        - [ ] 8a: Two One-of Types 
+          - [ ] Module Overview 
+          - [ ] Cross Product Table 
+          - [ ] Cross Product Code 
+          - [ ] Practice Problems 
+        - [ ] 8b: Local
+          - [ ] Module Overview 
+          - [ ] Introduction 
+          - [ ] Forming and Intuition 
+          - [ ] Lexical Scoping 
+          - [ ] Evaluation Rules 
+          - [ ] Encapsulation 
+          - [ ] Avoiding Recomputation 
+          - [ ] Practice Problems 
+          - [ ] Design Quiz 
+        - [ ] 9: Abstraction 
+          - [ ] Module Overview 
+          - [ ] Introduction 
+          - [ ] From Examples 1
+          - [ ] From Examples 2 
+          - [ ] From Examples 3 
+          - [ ] Using Built In Abstract Functions 
+          - [ ] Closures 
+          - [ ] Fold Functions 
+          - [ ] Practice Problems 
+          - [ ] Quiz 
+        - [ ] 10a: Generative Recursion 
+          - [ ] Module Overview 
+          - [ ] Introduction 
+          - [ ] Fractals 
+          - [ ] Termination Arguments 
+          - [ ] Practice Problems 
+        - [ ] 10b: Search
+          - [ ] Module Overview 
+          - [ ] Lambda Expressions 
+          - [ ] Introduction 
+          - [ ] Sudoku -- Terminology 
+          - [ ] Sudoku -- Data Definitions and Primitives 
+          - [ ] Sudoku -- The Search Intuition 
+          - [ ] Sudoku -- Template Blending 
+          - [ ] Sudoku -- Making the Wish List 
+          - [ ] Sudoku -- Making the Wish List Come True Part 1
+          - [ ] Sudoku -- Making the Wish List Come True Part 2
+          - [ ] Sudoku -- Making the Wish List Come True Part 3 
+          - [ ] Quiz 
+          - [ ] Video Contest 
+        - [ ] 11: Accumulators 
+          - [ ] Module Overview 
+          - [ ] Context Preserving Accumulators 
+          - [ ] Sample Problem: skipn 
+          - [ ] Tail Recursion 
+          - [ ] Worklist Accumulators 1 
+          - [ ] Worklist Accumulators 2
+          - [ ] Practice Problems 
+          - [ ] Quiz 
+        - [ ] 12: Graphs 
+          - [ ] Module Overview 
+          - [ ] Introduction 
+          - [ ] Constructing Cyclic Data 
+          - [ ] Templating 
+          - [ ] Problem: reachable?
+          - [ ] Practice Problems 
+        - [ ] The Career Development Series 
+          - [ ] Introducing: The Career Development Series 
+          - [ ] Technical Interview 
+          - [ ] Taking Your Suggestions 
+        - [ ] Worked Problems 
+          - [ ] Merge Sort 
+          - [ ] Video Contest 
+        - [ ] Final Project 
+          - [ ] Thanks 
+          - [ ] Final Project Part A 
+          - [ ] Final Project Part B
+      - [ ] Programming Languages, Part A 
+        - [ ] Week 1
+          - [ ] Introduction and Course-Wide Information 
+            - [ ] Start here! 
+            - [ ] Welcome!
+            - [ ] Optional: Who I am / Acknowledgments 
+            - [ ] What the Course is About 
+            - [ ] Recommended Background 
+            - [ ] Why Part A, Part B, Part C 
+            - [ ] Grading Policy 
+            - [ ] Optional: Very High-Level Outline 
+            - [ ] About the Course 
+            - [ ] Some More Perspective on Recommended Background 
+            - [ ] Why are there 3 Courses? (Part A, Part B, Part C)?
+            - [ ] Grading Policy Details 
+            - [ ] Discussion Forums: Why Are You Participating 
+          - [ ] Software Installation and Homework 0
+            - [ ] Installation Instructions 
+              - [ ] Part A Software Installation and Use: SML and Emacs 
+              - [ ] Why Emacs?
+            - [ ] Homework 0
+              - [ ] Homework 0 (Auto-Grader)
+              - [ ] Homework 0 (Peer Assessment)
+        - [ ] Week 2
+          - [ ] Section 1 and Homework 1
+            - [ ] Section-Wide Items 
+              - [ ] Section 1 Welcome Message 
+              - [ ] Section 1 Reading Notes 
+              - [ ] Code Files for All Section 1 Videos 
+            - [ ] Video Lectures 
+              - [ ] ML Variable Bindings and Expressions 
+              - [ ] Rules for Expressions 
+              - [ ] The REPL and Errors 
+              - [ ] Shadowing 
+              - [ ] Functions Informally
+              - [ ] Functions Formally 
+              - [ ] Pairs and Other Tuples 
+              - [ ] Introducing Lists 
+              - [ ] List Functions 
+              - [ ] Let Expressions 
+              - [ ] Nested Functions 
+              - [ ] Let and Efficiency 
+              - [ ] Options 
+              - [ ] Booleans and Comparison Operations 
+              - [ ] Benefits of No Mutation 
+              - [ ] Optional: Java Mutation 
+              - [ ] Pieces of a Language 
+            - [ ] Homework 1
+            - [ ] Community-Contributed Resources
+              - [ ] Hints and Gotchas for Homework 1 
+              - [ ] Extra Practice Problems 
+        - [ ] Week 3
+          - [ ] Section 2 and Homework 2
+            - [ ] Section-Wide Items 
+              - [ ] Section 2 Welcome Message
+              - [ ] Section 2 Reading Notes 
+              - [ ] Code Files for All Section 2 Videos 
+            - [ ] Video Lectures
+              - [ ] Building Compound Types 
+              - [ ] Records 
+              - [ ] Tuples as Synactic Sugar
+              - [ ] Datatype Bindings 
+              - [ ] Case Expressions 
+              - [ ] Useful Datatypes 
+              - [ ] Pattern Matching So Far 
+              - [ ] Another Expression Example 
+              - [ ] Type Synonyms 
+              - [ ] Lists and Options are Databases 
+              - [ ] Polymorphic Datatypes 
+              - [ ] Each of Pattern Matching / Truth About Functions 
+              - [ ] A Little Type Inference 
+              - [ ] Polymorphic and Equality Types 
+              - [ ] Nested Patterns 
+              - [ ] More Nested Patterns 
+              - [ ] Nested Patterns Precisely
+              - [ ] Optional: Function Patterns 
+              - [ ] Exceptions 
+              - [ ] Taul Recursion 
+              - [ ] Accumulators for Tail Recursion 
+              - [ ] Perspective on Tail Recursion 
+            - [ ] Homework 2
+            - [ ] Community-Contributed Resources 
+              - [ ] Hints and Gotchas for Homework 2
+              - [ ] Extra Practice Problems 
+        - [ ] Week 4
+          - [ ] Section 3 and Homework 3 -- and Course Motivation
+            - [ ] Section-Wide Materials 
+              - [ ] Section 3 Welcome Message 
+              - [ ] Section 3 Reading Notes 
+              - [ ] Code Files for All Section 3 Videos 
+            - [ ] Video Lectures 
+              - [ ] Introduction to First-Class Functions 
+              - [ ] Functions as Arguments 
+              - [ ] Polymorphic Types and Functions as Arguments 
+              - [ ] Anonymous Functions 
+              - [ ] Unnecessary Function Wrapping 
+              - [ ] Map and Filter 
+              - [ ] Generalizing Prior Topics 
+              - [ ] Lexical Scope 
+              - [ ] Lexical Scope and Higher-Order Functions 
+              - [ ] Why Lexical Scope 
+              - [ ] Closures and Recomputation 
+              - [ ] Fold and More Closures 
+              - [ ] Clousure Idiom: Combining Functions 
+              - [ ] Closure Idion: Currying
+              - [ ] Partial Application 
+              - [ ] Currying Wrapup 
+              - [ ] Mutable References 
+              - [ ] Closure Idiom: Callbacks 
+              - [ ] Standard-Library Documentation 
+              - [ ] Optional: Abstract Data Types With Closures 
+              - [ ] Optional; Closure Idioms Without Closures 
+              - [ ] Optional: Java Without Closures 
+              - [ ] Optional: C Without Closures 
+            - [ ] Optional But Highly Recommended; Course Motivation 
+              - [ ] Course Motivation Introduction 
+              - [ ] Why Study General PL Concepts 
+              - [ ] Are All PLs the Same? 
+              - [ ] Why Functional Languages? 
+              - [ ] Why ML, Racket, and Ruby
+            - [ ] Homework 3
+            - [ ] Community-Contributed Resources 
+              - [ ] Hints and Gotchas for Section 3
+              - [ ] Extra Practice Problems 
+        - [ ] Week 5
+          - [ ] Section 4 and Part-A Exam 
+            - [ ] Section-Wide Materials 
+              - [ ] Section 4 Welcome Message
+              - [ ] Section 4 Reading Notes 
+              - [ ] Code Files for All Section 4 Videos 
+            - [ ] Video Lectures 
+              - [ ] Section Introduction 
+              - [ ] What is Type Inference 
+              - [ ] ML Type Inference 
+              - [ ] Type Inference Examples 
+              - [ ] Polymorphic Examples 
+              - [ ] Optional: The Value Restriction and Other Type-Inference Challenges 
+              - [ ] Mutual Recursion 
+              - [ ] Modules for Namespace Management
+              - [ ] Signatures and Hiding Things 
+              - [ ] A Module Example 
+              - [ ] Signatures for Our Example 
+              - [ ] Signature Matching 
+              - [ ] An Equivalent Structure 
+              - [ ] Another Equivalent Structure 
+              - [ ] Different Modules Define Different Types 
+              - [ ] Equivalent Functions 
+              - [ ] Standard Equivalences 
+              - [ ] Equivalence Versus Performance
+            - [ ] Part A Exam
+              - [ ] Information About the Exam 
+              - [ ] Practice Exam for Part A 
+              - [ ] Exam for Part A 
+            - [ ] Part A Wrap-Up
+              - [ ] Part A Wrap-Up and Parts B&C Preview 
+      - [ ] Programming Languages, Part B 
+        - [ ] Week 1
+          - [ ] Introduction, Course-Wide Information, and Software Installation 
+            - [ ] Course Information and Overview 
+              - [ ] Start Here! 
+              - [ ] Welcome to Part B 
+              - [ ] Overview of Part B Concepts 
+              - [ ] Part B Course Structure 
+            - [ ] Software Installation 
+              - [ ] Part B Software Installation and Use: Racket and DrRacket
+          - [ ] Section 5 and Homework 4
+            - [ ] Section-Wide Items 
+              - [ ] Section 5 Welcome Message
+              - [ ] Section 5 Reading Notes 
+              - [ ] Code Files for All Section 5 Videos 
+            - [ ] Video Lectures 
+              - [ ] Introduction to Racket 
+              - [ ] Racket Definitions, Functions, Conditionals 
+              - [ ] Racket Lists 
+              - [ ] Syntax and Parentheses 
+              - [ ] Parentheses Matter! (Debugging Practice)
+              - [ ] Dynamic Typing 
+              - [ ] Cond 
+              - [ ] Local Bindings 
+              - [ ] Toplevel Bindings 
+              - [ ] Mutation with St! 
+              - [ ] The Truth about Cons 
+              - [ ] mcons For Mutable Pairs 
+              - [ ] Delayed Evaluation and Thunks 
+              - [ ] Avoiding Unnecessary Computations 
+              - [ ] Delay and Force 
+              - [ ] Using Streams 
+              - [ ] Defining Streams 
+              - [ ] Memoization 
+              - [ ] Macros: The Key Points 
+              - [ ] Optional: Tokenization, Parenthesization, and scope 
+              - [ ] Optional: Rackeet Macros With define-syntax 
+              - [ ] Optional: Varialbes, Macros, and Hygiene 
+              - [ ] Optional: More Macro Examples 
+            - [ ] Homework 4
+            - [ ] Community-Contributed Resources
+              - [ ] Notes and Tips for Section 5
+              - [ ] Extra Practice Problems 
+        - [ ] Week 2
+          - [ ] Section 6 and Homework 5 (Second Module with Racket)
+            - [ ] Section-Wide Items 
+              - [ ] Section 6 Welcome Message
+              - [ ] Section 6 Reading Notes 
+              - [ ] Code Files for All Section 6 Videos 
+            - [ ] Video Lectures 
+              - [ ] Datatype-Programming in Racket Without Structs 
+              - [ ] Datatype-Programming in Racket With Structs 
+              - [ ] Advantages of Structs 
+              - [ ] Implementating Programming Languages 
+              - [ ] What Your Interpreter Can and Cannot Assume 
+              - [ ] Implementing Variables and Environments 
+              - [ ] Implementing Closures 
+              - [ ] Optional: Are Closures Efficient? 
+              - [ ] Racket Functions As "Macros" for Interpreted Language
+            - [ ] Homework 5
+            - [ ] Community-Contributed Resources 
+              - [ ] Notes and Tips for Section 6 
+              - [ ] Extra Practice Problems 
+        - [ ] Week 3
+          - [ ] Section-Wide Items 
+            - [ ] Section 7 Welcome Message 
+            - [ ] Section 7 Reading Notes 
+            - [ ] Code Files for All Section 7 Videos 
+          - [ ] Video Lectures 
+            - [ ] ML Versus Racket 
+            - [ ] What is Static Checking 
+            - [ ] Soundness and Completeness 
+            - [ ] Weak Typing 
+            - [ ] Static Versus Dynamic Typing, Part One 
+            - [ ] Static Versus Dynamic Typing, Part Two 
+            - [ ] Optional: Eval and quote 
+          - [ ] Quiz for This Section 
+            - [ ] Quiz Instructions 
+            - [ ] Section 7 Quiz
+          - [ ] Part B Wrap-Up and Part C Preview 
+      - [ ] Programming Languages, Part C 
+        - [ ] Week 1
+          - [ ] Introduction, Course-Wide Information, and Software Installation (Start Here)
+            - [ ] Course Information and Overview 
+              - [ ] Start Here! 
+              - [ ] Welcome to Part C 
+              - [ ] Overview of Part C Concepts 
+              - [ ] Part C Course Structure 
+            - [ ] Software Installation
+              - [ ] Part C Software Installation and Use: Ruby and irb 
+              - [ ] Installing and Using SML and Emacs
+          - [ ] Section 8 and Homework 6 (First Module with Ruby)
+            - [ ] Section-Wide Items 
+              - [ ] Section 8 Welcome Message
+              - [ ] Section 8 Reading Notes 
+              - [ ] Code Files for All Section 8 Videos 
+            - [ ] Video Lectures 
+              - [ ] Introduction to Ruby 
+              - [ ] Classes and Objects 
+              - [ ] Object State 
+              - [ ] Visibility 
+              - [ ] A Longer Example 
+              - [ ] Everything is an Object 
+              - [ ] Class Definitions are Dynamic 
+              - [ ] Duck Typing 
+              - [ ] Arrays 
+              - [ ] Blocks 
+              - [ ] Using Blocks 
+              - [ ] Procs 
+              - [ ] Hashes and Ranges 
+              - [ ] Subclassing 
+              - [ ] Why Use Subclassing? 
+              - [ ] Overriding and Dynamic Dispatch
+              - [ ] Method-Lookup Rules, Precisely
+              - [ ] Dynamic Dispatch Versus Closures 
+              - [ ] Optional: Dynamic Dispatch Manually in Racket 
+            - [ ] Homework 6 Instructions 
+              - [ ] Explanation of "Lesson Choices"
+              - [ ] Homework 6 Instructions
+            - [ ] Homework 6 Peer Review 
+            - [ ] Community-Contributed Resources 
+              - [ ] Practice Problems for Another Game in Ruby
+          - [ ] Section 8 and Homework 6 (First Module with Ruby): Lesson Choices 
+            - [ ] Homework 6 (Ruby 2.0)
+            - [ ] Homework 6 (Ruby 2.1)
+            - [ ] Homework 6 (Ruby 2.2)
+            - [ ] Homework 6 (Ruby 2.3)
+        - [ ] Week 2
+          - [ ] Section 9 and Homework 7 (Second Module with Ruby)
+            - [ ] Section-Wide Materials 
+              - [ ] Section 9 Welcome Message
+              - [ ] Section 9 Reading Notes 
+              - [ ] Code Files for All Section 9 Videos 
+            - [ ] Video Lectures 
+              - [ ] OOP Versus Functional Decomposition
+              - [ ] Adding Operations or Variants 
+              - [ ] Binary Methods iwth Functional Decomposition 
+              - [ ] Double Dispatch 
+              - [ ] Optional: Multimethods 
+              - [ ] Multiple Inheritance 
+              - [ ] Mixings 
+              - [ ] Interfaces 
+              - [ ] Optional: Abstract Methods 
+            - [ ] Homework 7 Instructions 
+              - [ ] Explanation of "Lesson Choices"
+              - [ ] Lesson 7 Instrctions 
+            - [ ] Homework 7: Peer Review 
+            - [ ] Community-Contributed Resources 
+              - [ ] Practice Problems for Double Dispatch and ML-to-Ruby
+          - [ ] Section 9 and Homework 7 (Second Module with Ruby): Lesson Choices 
+            - [ ] Homework 7: (Ruby 2.0 and SML)
+            - [ ] Homework 7: (Ruby 2.1 and SML)
+            - [ ] Homework 7: (Ruby 2.2 and SML)
+            - [ ] Homework 7: (Ruby 2.3 and SML)
+        - [ ] Week 3
+          - [ ] Section 10, Final Exam, and Course Wrap-Up
+            - [ ] Section-wide Materials 
+              - [ ] Section 10 Welcome Message
+              - [ ] Section 10 Reading Notes 
+              - [ ] (Lack of) Section 10 Code Files 
+            - [ ] Video Lectures
+              - [ ] Subtyping From the Beginning 
+              - [ ] The Subtype Relation 
+              - [ ] Depth Subtypign 
+              - [ ] Optional: Java/C# Arrays 
+              - [ ] Functional Subtyping 
+              - [ ] Subtyping for OOP
+              - [ ] Generics Versus Subtyping 
+              - [ ] Bounded Polymorphism
+            - [ ] Final Exam 
+              - [ ] Information about the Exam (Required Reading)
+              - [ ] Practice Final Exam 
+              - [ ] Actual Final Exam
+            - [ ] Course Wrap-Up
+              - [ ] Summarizing All We Have Learned 
+              - [ ] Saying Good-Bye :-)
+      - [ ] Object-Oriented Design 
+        - [ ] Week 1
+          - [ ] Object Oriented Analysis and Design
+            - [ ] Introduction to Software Design and Architecture
+              - [ ] Meet Your Presenter 
+              - [ ] Meet Your Facilitators 
+              - [ ] 1.1.1 - Welcome to Software Design and Architecture 
+              - [ ] 1.1.2 - Software Architect and Design Roles in Industry
+              - [ ] Java Knowledge 
+              - [ ] Java Proficiency Quiz 1
+              - [ ] Java Proficiency Quiz 2
+              - [ ] Java Proficiency Quiz 3
+              - [ ] Object Oriented Design Course Notes 
+              - [ ] Course Glossary 
+            - [ ] Object-Oriented Thinking
+              - [ ] 1.1.3 - Object-Oriented Modeling 
+              - [ ] Discussion: Introduce Yourself 
+            - [ ] Design in the Software Process 
+              - [ ] 1.1.4 - Software Requirements, Conceptual and Technical Designs 
+              - [ ] Expressing Requirements with User Stories 
+              - [ ] Categories of Objects in Design 
+            - [ ] Design for Quality Attributes 
+              - [ ] 1.1.5 - Competing Qualities and Trade-offs 
+            - [ ] Class Responsibility Collaborator (CRC)
+              - [ ] 1.1.6 - Record, Organize, and Refine Components 
+              - [ ] Discussion: Modeling CRC 
+            - [ ] Review 
+              - [ ] Module 1 Review 
+        - [ ] Week 2
+        - [ ] Week 3
+        - [ ] Week 4
+      - [ ] Design Patterns 
+      - [ ] Software Architecture 
+    - [ ] Core Math
+      - [ ] Calculus 1A: Differentiation 
+      - [ ] Calculus 1B: Integration 
+      - [ ] Calculus 1C: Coordinate Systems & Infinite Series 
+      - [ ] Mathematics for Computer Science 
+    - [ ] CS Tools 
+      - [ ] The Missing Semester of Your CS Education
+    - [ ] Core systems 
+      - [ ] Build a Modern Computer from First Principles: From Nand to Tetris 
+      - [ ] Builda a Modern Computer from First Principles: From Nand to Tetris Part II
+      - [ ] Operating Systems: Three Easy Pieces 
+      - [ ] Computer Networking: A Top-Down Approach 
+    - [ ] Core theory 
+      - [ ] Divide and Conquer, Sorting and Searching, and Randomized Algorithms 
+      - [ ] Graph Search, Shortest Paths, and Data Structures 
+      - [ ] Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming 
+      - [ ] Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+    - [ ] Core security 
+      - [ ] Cybersecurity Fundamentals 
+      - [ ] Principles of Secure Coding
+      - [ ] Identifying Security Vulnerabilities 
+      - [ ] Identifying Security Vulnerabilities in C/C++ Programming 
+      - [ ] Exploiting and Securing Vulnerabilities in Java Applications 
+    - [ ] Core applications 
+      - [ ] Databases: Modeling and Theory 
+      - [ ] Databases: Relational Databases and SQL 
+      - [ ] Databases: Semistructured Data 
+      - [ ] Machine Learning 
+      - [ ] Computer Graphics 
+      - [ ] Software Engineering: Introduction 
+    - [ ] Core ethics 
+      - [ ] Ethics, Technology, and Engineering 
+      - [ ] Introduction to Intellectual Property 
+      - [ ] Data Privacy Fundamentals 
+  - [ ] Advanced CS 
+    - [ ] Advanced programming 
+      - [ ] Parallel Programming 
+      - [ ] Compilers 
+      - [ ] Introduction to Haskell 
+      - [ ] Learn Prolog Now! 
+      - [ ] Software Debugging 
+      - [ ] Software Testing 
+    - [ ] Advanced systems 
+      - [ ] Computation Structures 1: Digital Circuits 
+      - [ ] Computation Structures 2: Computer Architecture 
+      - [ ] Computation Structures 3: Computer Organization 
+    - [ ] Advanced theory 
+      - [ ] Theory of Computation 
+      - [ ] Computational Geometry 
+      - [ ] Game Theory 
+    - [ ] Advanced information security 
+      - [ ] Web Security Fundamentals 
+      - [ ] Security Governance & Compliance 
+      - [ ] Digital Forensics Concepts 
+      - [ ] Secure Software Development: Requirements, Design, and Reuse 
+      - [ ] Secure Software Development: Implementation 
+      - [ ] Secure Software Development: Verification and More Specialized Topics 
+    - [ ] Advanced Math
+      - [ ] Essence of Linear Algebra 
+      - [ ] Linear Algebra 
+      - [ ] Introduction to Numerical Methods 
+      - [ ] Introduction to Formal Logic 
+      - [ ] Probability
+  - [ ] Final Project 
+    - [ ] Fullstack Open 
+    - [ ] Modern Robotics 
+    - [ ] Data Mining 
+    - [ ] Big Data 
+    - [ ] Internet of Things 
+    - [ ] Cloud Computing 
+    - [ ] Data Science 
+    - [ ] Functional Programming in Scala 
+    - [ ] Game Design and Development with Unity 2020
+- [ ] OSSU - Math 
+- [ ] OSSU - Data Science 
+- [ ] OSSU - Bioinformatics
+- [ ] RadioRunner's Curriculum for the Self-Taught Artist
+- [ ] JustinGuitar
